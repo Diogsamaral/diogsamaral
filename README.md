@@ -15,5 +15,5 @@ Studant, manager and technology lover. I'm learn JavaScript with the intention o
 
 ### Courses
 [![Codecademy Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.freecodecamp.org/diogoamaral)
-[![Freecodecamp Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.freecodecamp.org/diogoamaral)
+[![Freecodecamp Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.codecademy.com/profiles/DiogsAmaral)
 
