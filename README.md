@@ -3,7 +3,7 @@
 Studant, manager and technology lover. I'm learn JavaScript with the intention of growing my field of knowledge and maybe working in the web development area
 
 - 🔭 I’m currently working on strategic management
-- 🌱 I’m currently learning JavaScript, Python
+- 🌱 I’m currently learning JavaScript, Python, MySQL, React, Django
 - 📫 How to reach me: diogodamunc@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogsamaral)](https://github.com/anuraghazra/github-readme-stats)
