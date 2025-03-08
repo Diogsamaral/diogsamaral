@@ -1,9 +1,9 @@
 ### Hi there, i'm Diogo Amaral
 
-Studant, manager and technology lover. I'm learn JavaScript with the intention of growing my field of knowledge and maybe working in the web development area
+Studant, manager, project designer, product designer and technology lover. I'm learn JavaScript, Python, Java and outhers tecnologies with the intention of growing my field of vision and knowledge. Maybe working in the web development area.
 
 - 🔭 I’m currently working on strategic management
-- 🌱 I’m currently learning JavaScript, Python, Bootstrap, Tailwind, MySQL, React, Django
+- 🌱 I’m currently learning JavaScript, Python, Bootstrap, Tailwind, MySQL, React.js, Django, Next.js
 - 📫 How to reach me: diogodamunc@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogsamaral)](https://github.com/anuraghazra/github-readme-stats)
