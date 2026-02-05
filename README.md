@@ -6,7 +6,7 @@ Studant, manager, project designer, product designer and technology lover. I'm l
 - 🌱 I’m currently learning JavaScript, Python, Bootstrap, Tailwind, MySQL, React.js, Django, Next.js
 - 📫 How to reach me: diogodamunc@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogsamaral)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diogsamaral)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogoalvesdoamaral/)
