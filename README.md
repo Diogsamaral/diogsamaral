@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Diogo Amaral
+<h1 align="center">Hi 👋, I'm Diogo Amaral</h1>
 
-### Application Support Specialist | Power Platform | Azure | IT Governance | AI & Automation
+<h3 align="center">
+Application Support | Power Platform | Azure | ServiceNow | AI & Automation
+</h3>
+
+<p align="center">
+Passionate about transforming knowledge into scalable digital solutions through governance, automation and artificial intelligence.
+</p>
 
 Technology enthusiast with experience in enterprise application support, governance, automation, and Microsoft technologies.
 
@@ -87,7 +93,7 @@ Currently focused on building scalable solutions using Power Platform, Azure, Se
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColorps://github.com/DiogsAmaral)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor)](https://github.com/DiogsAmaral)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/diogoalvesdoamaral/)
 
