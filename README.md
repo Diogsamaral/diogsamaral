@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/Designer.png">
+</p>
+
 <h1 align="center">Hi 👋, I'm Diogo Amaral</h1>
 
 <h3 align="center">
