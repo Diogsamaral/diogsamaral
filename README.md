@@ -28,7 +28,7 @@ Currently focused on building scalable solutions using Power Platform, Azure, Se
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Teams](https://img.shields/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams)
 
 ### Cloud & DevOps
 
@@ -39,7 +39,7 @@ Currently focused on building scalable solutions using Power Platform, Azure, Se
 ### Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/F1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logo)
 ![React](https://img.shields.io/badge/React-20232A?-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjswhite)
 
@@ -62,11 +62,13 @@ Currently focused on building scalable solutions using Power Platform, Azure, Se
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DiogsAmaral&show_icons  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogsAmaralokyonight
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogsAmaral&show_icons=true&all_commits=true&count_private=true>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogsAmaral&layout=compact&langs_count=8&theme=>
 
 ---
 
@@ -85,9 +87,9 @@ Currently focused on building scalable solutions using Power Platform, Azure, Se
 
 ## 📫 Connect With Me
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) https://github.com/Diogsamaral
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColorps://github.com/DiogsAmaral)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/diogoalvesdoamaral/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/diogoalvesdoamaral/)
 
 📧 **Email:** diogodamunc@gmail.com
 
