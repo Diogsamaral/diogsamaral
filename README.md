@@ -65,15 +65,6 @@ Currently focused on building scalable solutions using Power Platform, Azure, Se
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogsAmaral&show_icons=true&all_commits=true&count_private=true>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogsAmaral&layout=compact&langs_count=8&theme=>
-</div>
-
----
-
 ## 💡 Areas of Interest
 
 - Artificial Intelligence
