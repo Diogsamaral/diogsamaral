@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Designer.png" width="400">
+  <img src="/Designer.png" width="800">
 </p>
 
 <h1 align="center">Hi 👋, I'm Diogo Amaral</h1>
